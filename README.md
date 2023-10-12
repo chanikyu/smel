@@ -37,8 +37,8 @@ smel shotgun ???
 
 ## installation with conda
 * first download **`yml`** file which is located in **`yaml`** directory from this repository.
-    * smel-py38-linux-conda.yml
-    * smel-py38-osx-conda.yml
+    * [smel-py38-linux-conda.yml](https://drive.google.com/file/d/1Peretn-BN0Awo6TdBm6_NAfVq8n7c6P-/view?usp=sharing)
+    * [smel-py38-osx-conda.yml](https://drive.google.com/file/d/1YcT5CJlmoGtO0C2QHiXeNsANfEPYuebc/view?usp=sharing)
 ```shell
 # linux
 conda env create -n smel --file smel-py38-linux-conda.yml
